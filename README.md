@@ -5,5 +5,3 @@
 
 > YOLOv5 : https://github.com/ultralytics/yolov5
 
-
-수정이되는가
