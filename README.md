@@ -4,3 +4,6 @@
 > 회의록 : https://docs.google.com/document/d/1fIRLpuA7V0Jb0l6fWg8KfU0ae6wXg9rNU_Z_M0-um4E/edit?usp=sharing
 
 > YOLOv5 : https://github.com/ultralytics/yolov5
+
+
+수정이되는가
