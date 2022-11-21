@@ -2,7 +2,7 @@
 # A Case Study of Object detection via Generated image Using deep learning model based on image generation
 <span style="color:yellow">**딥 러닝 기반 이미지 생성 모델을 활용한 객체 인식 사례 연구**</span>
 <br>
-<img src = "C:/Users/lucy/Desktop/my pic/image.png"/></a>
+<img src = "https://drive.google.com/drive/u/0/my-drive"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 <details>
