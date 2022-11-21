@@ -1,10 +1,12 @@
 
 # A Case Study of Object detection via Generated image Using deep learning model based on image generation
-<span style="color:yellow">**딥 러닝 기반 이미지 생성 모델을 활용한 객체 인식 사례 연구**</span>
-<br>
-![image2](https://user-images.githubusercontent.com/94797349/203092739-2f5f2daf-08a4-43e7-935c-6585cfd969d8.png)
-<br>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<div align="center">
+  <span style="color:yellow">**딥 러닝 기반 이미지 생성 모델을 활용한 객체 인식 사례 연구**</span><br>
+</div>
+  ![image2](https://user-images.githubusercontent.com/94797349/203092739-2f5f2daf-08a4-43e7-935c-6585cfd969d8.png)<br>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+</div>
 
 <details>
 <summary>technology</summary>
