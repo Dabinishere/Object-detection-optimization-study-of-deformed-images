@@ -7,13 +7,19 @@
 <summary>technology</summary>
 <div markdown="1">
 
-  Dalle-2<br>Yolov5x
+  Dalle-2<br>Yolov5x  
+  > YOLOv5 : https://github.com/ultralytics/yolov5
 
 </div>
 </details>
 
-> 회의록 : https://docs.google.com/document/d/1fIRLpuA7V0Jb0l6fWg8KfU0ae6wXg9rNU_Z_M0-um4E/edit?usp=sharing
+<details>
+<summary>conference</summary>
+<div markdown="1">
 
-> YOLOv5 : https://github.com/ultralytics/yolov5
+  > 회의록 : https://docs.google.com/document/d/1fIRLpuA7V0Jb0l6fWg8KfU0ae6wXg9rNU_Z_M0-um4E/edit?usp=sharing
 
-> 
+</div>
+</details>
+
+
