@@ -52,9 +52,10 @@ COCO val 2017의 동물 객체 중 8가지를 카테고리를 주요 객체로 �
 <br>
 > **Yolov5x**
 > <br>: [YOLOv5](https://github.com/ultralytics/yolov5)
-|||
+
+|![image (157)](https://user-images.githubusercontent.com/94797349/203380581-4a9f2a73-c6fb-4612-a84b-386517da3181.png)|![image (157)](https://user-images.githubusercontent.com/94797349/203380664-2dc2a0cc-1b14-4ad5-872e-cdc10a8c3268.jpg)|
 |--|--|
-|||
+|데이터 이미지|YOLOv5x로 돌린 후(바운딩 박스 생성)|
 
 <br>
 > **디노이징[NAFNET]**
