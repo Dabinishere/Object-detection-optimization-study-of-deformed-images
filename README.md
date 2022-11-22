@@ -38,7 +38,8 @@
 |한글|영어로 번역|DALL-E-2로 생성한 이미지|
 |------|---|---|
 |"냉장고를 열고 샌드위치를 꺼내는 소"|"a photo of a cow that opens the refrigerator and takes out a sandwich"|<img src = "https://user-images.githubusercontent.com/94797349/203352353-0eea3a28-0bfc-413b-89bb-a11486a88128.png" width="250" height="200"/>|
-<br>
+
+COCO val 2017의 동물 객체 중 8가지를 카테고리를 주요 객체로 문장들을 생성하였다.
 
 |giraffe|bear|elephant|cow|
 |---|---|------|---|
