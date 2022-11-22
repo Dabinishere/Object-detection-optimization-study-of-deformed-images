@@ -25,19 +25,19 @@
 <div markdown="1">
 
   Dalle-2<br>Yolov5x  
-  > YOLOv5 : [YOLOv5]https://github.com/ultralytics/yolov5
+  > YOLOv5 : [YOLOv5](https://github.com/ultralytics/yolov5)
 
 </div>
 </details>
 
 # conference
 
-
-  > 회의록 : [회의록 GOOGLE DRIVE]https://docs.google.com/document/d/1fIRLpuA7V0Jb0l6fWg8KfU0ae6wXg9rNU_Z_M0-um4E/edit?usp=sharing
+  > 회의록 : [회의록 GOOGLE DRIVE](https://docs.google.com/document/d/1fIRLpuA7V0Jb0l6fWg8KfU0ae6wXg9rNU_Z_M0-um4E/edit?usp=sharing)
 
 <br>
 
-# WebSite
+# WebSite HI:M
+
 
   **재홍**
 
