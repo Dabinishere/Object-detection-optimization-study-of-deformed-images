@@ -29,7 +29,8 @@
 ### technology
 <br>
 
-> **Dalle-2**  [<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=Python&logoColor=white"/>](https://openai.com/dall-e-2/)
+> **Dalle-2**
+> <br>[<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=Python&logoColor=white"/>](https://openai.com/dall-e-2/)
 <br>
 
 <img src = "https://user-images.githubusercontent.com/94797349/203345153-5a8402cf-ddc8-44bc-8326-62a1147d0327.png" width="750" height="300"/>
@@ -39,6 +40,7 @@
 
 
 > **Yolov5x**
+ : [YOLOv5](https://github.com/ultralytics/yolov5)
 <br>
 
 > **디노이징[NAFNET]**
@@ -47,15 +49,6 @@
 > **SR[SRCNN]**
 <br>
 
-> **YOLOv5**
- : [YOLOv5](https://github.com/ultralytics/yolov5)
-<br>
-
-# conference
-
-  > 회의록 : [회의록 DRIVE](https://docs.google.com/document/d/1fIRLpuA7V0Jb0l6fWg8KfU0ae6wXg9rNU_Z_M0-um4E/edit?usp=sharing)
-
-<br>
 
 # WebSite HI:M  
 🌟**HI:M**
@@ -85,3 +78,10 @@
                                                             
                                                             [<img src="https://user-images.githubusercontent.com/94797349/203263564-9b1e63ae-d850-4937-b5af-be9811c3a7a3.png" width="120" height="150"/>](https://developer.mozilla.org/ko/docs/Web/JavaScript)
   
+  
+
+# conference
+
+  > 회의록 : [회의록 DRIVE](https://docs.google.com/document/d/1fIRLpuA7V0Jb0l6fWg8KfU0ae6wXg9rNU_Z_M0-um4E/edit?usp=sharing)
+
+<br>
