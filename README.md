@@ -3,7 +3,7 @@
 <br>
 <div align="center">
     
-   **딥 러닝 기반 이미지 생성 모델을 활용한 객체 인식 사례 연구**
+   **<딥 러닝 기반 이미지 생성 모델을 활용한 객체 인식 사례 연구>**
   
 </div>
 
@@ -11,8 +11,8 @@
 <br>
 <div align="center">
     
-   Yolov5의 취약점 검사를 위해 COCO val 2017의 동물 객체 중 8가지를 카테고리로, 툴은 Dalle-2를 이용해 생성한 이미지를 데이터 셋으로 하여 정확도를 검사한다.
-   도출된 취약점 개선을 위해 디노이징(NAFNET), SR(SRCCN)로 최적화 후 정확도 검사 연구를 진행한다.
+   Yolov5🚀의 취약점 검사를 위해 COCO val 2017의 동물 객체 중 8가지를 카테고리로, 툴은 DALL-E-2를 이용해 생성한 이미지를 데이터 셋으로 하여 정확도를 검사한다.
+   도출된 취약점 개선을 위해 디노이징🚀(NAFNET), SR🚀(SRCNN)로 최적화 후 정확도 검사 연구를 진행한다.
   
 </div>
 
@@ -37,7 +37,7 @@
 
 # conference
 
-  > 회의록 : [회의록 GOOGLE DRIVE](https://docs.google.com/document/d/1fIRLpuA7V0Jb0l6fWg8KfU0ae6wXg9rNU_Z_M0-um4E/edit?usp=sharing)
+  > 회의록🌟 : [회의록 DRIVE](https://docs.google.com/document/d/1fIRLpuA7V0Jb0l6fWg8KfU0ae6wXg9rNU_Z_M0-um4E/edit?usp=sharing)
 
 <br>
 
@@ -53,7 +53,7 @@
 </div>
 
 **Purpose**<br>
-<br> 깔끔한 디자인의 화질 개선 웹 사이트
+> <br> 깔끔한 디자인의 화질 개선 웹 사이트
 <br> 일반 사용자: SNS 업로드, 리뷰 작성 등 고화질의 이미지를 필요로 하는 업무에 이용
 <br> 데이터셋 구축: 데이터로 사용할 이미지 파일 화질 개선<br>
 
