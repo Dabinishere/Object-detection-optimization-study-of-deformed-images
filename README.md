@@ -49,16 +49,21 @@ COCO val 2017의 동물 객체 중 8가지를 카테고리를 주요 객체로 �
 |A photo of a cow that opens the refrigerator and takes out a sandwich|A photo of a horse wearing sunglasses and lying on a sunbed under a pararol|A photo of a dog tried on shoes at a shoe store|A photo of a cat putting on lipstick in front of the mirror|
 |<img src = "https://user-images.githubusercontent.com/94797349/203352353-0eea3a28-0bfc-413b-89bb-a11486a88128.png" width="150" height="150"/>|<img src = "https://user-images.githubusercontent.com/94797349/203361292-128292fe-9502-4558-a7ea-9f5b26bc1351.png" width="150" height="150"/>|<img src = "https://user-images.githubusercontent.com/94797349/203361371-7fbb1ea3-31c8-4cd4-9b44-12c73d85660c.png" width="150" height="150"/>|<img src = "https://user-images.githubusercontent.com/94797349/203361443-59c4029b-36c1-4903-9f55-4b497ecef3a9.png" width="150" height="150"/>|
 
+<br>
 > **Yolov5x**
 > <br>: [YOLOv5](https://github.com/ultralytics/yolov5)
-<br>
+|||
+|--|--|
+|||
 
+<br>
 > **디노이징[NAFNET]**
-<br>
 
+<br>
 > **SR[SRCNN]**
-<br>
 
+
+<br>
 
 # WebSite HI:M  
 🌟**HI:M**
