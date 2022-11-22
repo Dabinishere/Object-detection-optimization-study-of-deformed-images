@@ -50,18 +50,23 @@ COCO val 2017의 동물 객체 중 8가지를 카테고리를 주요 객체로 �
 |<img src = "https://user-images.githubusercontent.com/94797349/203352353-0eea3a28-0bfc-413b-89bb-a11486a88128.png" width="150" height="150"/>|<img src = "https://user-images.githubusercontent.com/94797349/203361292-128292fe-9502-4558-a7ea-9f5b26bc1351.png" width="150" height="150"/>|<img src = "https://user-images.githubusercontent.com/94797349/203361371-7fbb1ea3-31c8-4cd4-9b44-12c73d85660c.png" width="150" height="150"/>|<img src = "https://user-images.githubusercontent.com/94797349/203361443-59c4029b-36c1-4903-9f55-4b497ecef3a9.png" width="150" height="150"/>|
 
 <br>
+
 > **Yolov5x**
 > <br>: [YOLOv5](https://github.com/ultralytics/yolov5)
 
-|![image (157)](https://user-images.githubusercontent.com/94797349/203380581-4a9f2a73-c6fb-4612-a84b-386517da3181.png)|![image (157)](https://user-images.githubusercontent.com/94797349/203380664-2dc2a0cc-1b14-4ad5-872e-cdc10a8c3268.jpg)|
+|<img src = "https://user-images.githubusercontent.com/94797349/203380581-4a9f2a73-c6fb-4612-a84b-386517da3181.png" width="250" height="250"/>|<img src = "https://user-images.githubusercontent.com/94797349/203380664-2dc2a0cc-1b14-4ad5-872e-cdc10a8c3268.jpg" width="250" height="250"/>|
 |--|--|
 |데이터 이미지|YOLOv5x로 돌린 후(바운딩 박스 생성)|
 
 <br>
-> **디노이징[NAFNET]**
+
+> **디노이징**
+> <br>: [NAFNET](https://github.com/megvii-research/NAFNet)
 
 <br>
-> **SR[SRCNN]**
+
+> **SR**
+> <br>: [SRCNN](https://github.com/yjn870/SRCNN-pytorch)
 
 
 <br>
