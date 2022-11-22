@@ -27,6 +27,7 @@
 <br>
 
 ### technology
+<br>
 
 > **Dalle-2**  [<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=Python&logoColor=white"/>](https://openai.com/dall-e-2/)
 <br>
@@ -74,12 +75,13 @@
 
 🌟**재홍 WebSite 링크**
 <br><br><br>
+
 ## FrontEnd
-<br>
       [<img src="https://user-images.githubusercontent.com/94797349/203263241-95cb7160-0a81-4bc7-ae12-0ad275a40b60.png" width="100" height="150"/>](https://www.figma.com/files/recent?fuid=1158726737653483793)               [<img src="https://user-images.githubusercontent.com/94797349/203263379-dab35c9f-8284-44dc-9a2f-e18d51c38a7d.png" width="120" height="150"/>](https://developer.mozilla.org/ko/docs/Web/CSS)               [<img src="https://user-images.githubusercontent.com/94797349/203263442-e8c75941-9733-4723-988d-fa0c116fa5c4.png" width="140" height="150"/>](https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+
 <br><br><br>
+
 ## BackEnd
-<br>
                                                             
                                                             [<img src="https://user-images.githubusercontent.com/94797349/203263564-9b1e63ae-d850-4937-b5af-be9811c3a7a3.png" width="120" height="150"/>](https://developer.mozilla.org/ko/docs/Web/JavaScript)
   
