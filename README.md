@@ -29,8 +29,15 @@
 <details>
 <summary>technology</summary>
 <div markdown="1">
-
-  Dalle-2<br>Yolov5x  
+  Dalle-2<br>Yolov5x
+    
+    디노이징[NAFNET]
+    
+    <br>
+    
+    SR[SRCNN]
+    
+    <br>
   > YOLOv5 : [YOLOv5](https://github.com/ultralytics/yolov5)
 
 </div>
