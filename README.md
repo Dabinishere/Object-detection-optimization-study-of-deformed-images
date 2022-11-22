@@ -26,7 +26,7 @@
 
 <br>
 
-### technology
+## technology
 <br>
 
 > **Dalle-2**
