@@ -33,14 +33,18 @@
 > <br>[<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=Python&logoColor=white"/>](https://openai.com/dall-e-2/)
 <br>
 
-<img src = "https://user-images.githubusercontent.com/94797349/203345153-5a8402cf-ddc8-44bc-8326-62a1147d0327.png" width="750" height="300"/>
-<br><br>
+|한글|영어로 번역|DALL-E-2로 생성한 이미지|
+|------|---|---|
+|"냉장고를 열고 샌드위치를 꺼내는 소"|"a photo of a cow that opens the refrigerator and takes out a sandwich"|<img src = "https://user-images.githubusercontent.com/94797349/203352353-0eea3a28-0bfc-413b-89bb-a11486a88128.png" width="250" height="200"/>|
 
 <img src = "https://user-images.githubusercontent.com/94797349/203303375-63ab4c4f-c1ca-483d-8dda-6b4a06fac015.png" width = "750" height = "190"/>
-
+|카테고리|cat|dog|horse|sheep|cow|elephant|bear|giraffe|
+|------|---|---|------|---|---|------|---|---|
+|문구|A photo of a cat putting on lipstick in front of the mirror|A photo of a dog tried on shoes at a shoe store|A photo of a horse wearing sunglasses and lying on a sunbed under a pararol|A photo of a sheep truckload of apples and oranges with a salad and wine|A photo of a cow that opens the refrigerator and takes out a sandwich|A photo of a Elephant looking at the clock while putting flowers in the pot|A photo of a bear sitting on a chair and eating a sandwich|A photo of a giraffe that throws a discus in a truck|
+|이미지|---|---|------|---|---|------|---|---|
 
 > **Yolov5x**
- : [YOLOv5](https://github.com/ultralytics/yolov5)
+> <br>: [YOLOv5](https://github.com/ultralytics/yolov5)
 <br>
 
 > **디노이징[NAFNET]**
