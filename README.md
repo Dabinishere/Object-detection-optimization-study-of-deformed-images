@@ -3,7 +3,7 @@
 <br>
 <div align="center">
     
-   **<딥 러닝 기반 이미지 생성 모델을 활용한 객체 인식 사례 연구>**
+   **[딥 러닝 기반 이미지 생성 모델을 활용한 객체 인식 사례 연구]**
   
 </div>
 
@@ -30,6 +30,9 @@
 
 > **Dalle-2**
 <br>
+
+![표](https://user-images.githubusercontent.com/94797349/203303375-63ab4c4f-c1ca-483d-8dda-6b4a06fac015.png)
+
 
 > **Yolov5x**
 <br>
