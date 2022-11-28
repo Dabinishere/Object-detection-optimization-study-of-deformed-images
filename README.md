@@ -54,6 +54,8 @@ COCO val 2017의 동물 객체 중 8가지를 카테고리를 주요 객체로 �
 > **Yolov5x**
 > <br>: [YOLOv5](https://github.com/ultralytics/yolov5)
 
+DALL-E-2에서 생성한 이미지를 YOLOv5의 pretrained 모델 중 가장 성능이 좋다고 평가된 YOLOv5x 모델에 넣어 정확도를 평가
+
 |<img src = "https://user-images.githubusercontent.com/94797349/203380581-4a9f2a73-c6fb-4612-a84b-386517da3181.png" width="250" height="250"/>|<img src = "https://user-images.githubusercontent.com/94797349/203380664-2dc2a0cc-1b14-4ad5-872e-cdc10a8c3268.jpg" width="250" height="250"/>|
 |--|--|
 |데이터 이미지|YOLOv5x로 돌린 후(바운딩 박스 생성)|
@@ -63,11 +65,22 @@ COCO val 2017의 동물 객체 중 8가지를 카테고리를 주요 객체로 �
 > **디노이징**
 > <br>: [NAFNET](https://github.com/megvii-research/NAFNet)
 
+디노이징 툴인 NAFNET으로 데이터 이미지셋을 디노이징한 후, YOLOv5x로 다시 객체 인식해서 정확도 검사
+
+|<img src = "https://user-images.githubusercontent.com/94797349/204239262-ed8409ac-fedf-4013-83d6-6648e7e88de3.png width="250" height="250"/>|<img src = "https://user-images.githubusercontent.com/94797349/204239543-f334ae9f-35bf-4794-ac94-8593c78e6163.png" width="250" height="250"/>|
+|--|--|
+|데이터 이미지(Before denoising)|데이터 이미지(After denoising)|
+
+DALL-E-2로 생성한 이미지는 기존에 노이즈가 크지 않아, 디노이징 후에도 객체 인식률 정확도에 큰 변화 없었음
+    
 <br>
 
 > **SR**
 > <br>: [SRCNN](https://github.com/yjn870/SRCNN-pytorch)
 
+|<img src = "https://user-images.githubusercontent.com/94797349/204240451-e5e9578a-ae71-4d11-b520-277ffda8bba0.png" width="250" height="250"/>|<img src = "https://user-images.githubusercontent.com/94797349/204240451-e5e9578a-ae71-4d11-b520-277ffda8bba0.png" width="250" height="250"/>|
+|--|--|
+|데이터 이미지(Before SR)|데이터 이미지(After SR)|
 
 <br>
 
