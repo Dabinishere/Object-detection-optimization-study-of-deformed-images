@@ -56,7 +56,7 @@ COCO val 2017의 동물 객체 중 8가지를 카테고리를 주요 객체로 �
 
 DALL-E-2에서 생성한 이미지를 YOLOv5의 pretrained 모델 중 가장 성능이 좋다고 평가된 YOLOv5x 모델에 넣어 정확도를 평가
 
-|<p align="center"><img src = "https://user-images.githubusercontent.com/94797349/203380581-4a9f2a73-c6fb-4612-a84b-386517da3181.png" width="250" height="250"/>|<img src = "https://user-images.githubusercontent.com/94797349/203380664-2dc2a0cc-1b14-4ad5-872e-cdc10a8c3268.jpg" width="250" height="250"/></p>|
+|<img src = "https://user-images.githubusercontent.com/94797349/203380581-4a9f2a73-c6fb-4612-a84b-386517da3181.png" width="250" height="250"/>|<img src = "https://user-images.githubusercontent.com/94797349/203380664-2dc2a0cc-1b14-4ad5-872e-cdc10a8c3268.jpg" width="250" height="250"/>|
 |--|--|
 |데이터 이미지|YOLOv5x로 돌린 후(바운딩 박스 생성)|
 
