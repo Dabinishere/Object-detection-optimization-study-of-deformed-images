@@ -76,7 +76,9 @@ DALL-E-2로 생성한 이미지는 기존에 노이즈가 크지 않아, 디노�
 <br>
 
 > **SR**
-> <br>: [SRCNN](https://github.com/yjn870/SRCNN-pytorch)
+> <br>: [CAR](https://github.com/sunwj/CAR)
+
+데이터 이미지의 최적화를 이용해 최근 개발된 CAR-Pytorch 툴을 이용하여 화질 개선 및 최적화
 
 |<img src = "https://user-images.githubusercontent.com/94797349/204240451-e5e9578a-ae71-4d11-b520-277ffda8bba0.png" width="250" height="250"/>|<img src = "https://user-images.githubusercontent.com/94797349/204240451-e5e9578a-ae71-4d11-b520-277ffda8bba0.png" width="250" height="250"/>|
 |--|--|
@@ -96,9 +98,9 @@ DALL-E-2로 생성한 이미지는 기존에 노이즈가 크지 않아, 디노�
 </div>
 
 🌟**Purpose**<br><br>
-> 깔끔한 디자인의 화질 개선 웹 사이트 개발
-<br> 일반 사용자: SNS 업로드, 리뷰 작성 등 고화질의 이미지를 필요로 하는 업무에 이용
-<br> 데이터셋 구축: 데이터로 사용할 이미지 파일 화질 개선<br>
+> 1. 깔끔한 디자인의 화질 개선 웹 사이트 개발
+<br> 2. 일반 사용자: SNS 업로드, 리뷰 작성 등 고화질의 이미지를 필요로 하는 업무에 이용
+<br> 3. 데이터셋 구축: 데이터로 사용할 이미지 파일 화질 개선<br>
 
 🌟**재홍 WebSite 링크**
 <br><br><br>
