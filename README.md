@@ -55,7 +55,7 @@ COCO val 2017의 동물 객체 중 8가지를 카테고리를 주요 객체로 �
 > <br>: [YOLOv5](https://github.com/ultralytics/yolov5)
 
 DALL-E-2에서 생성한 이미지를 YOLOv5의 pretrained 모델 중 가장 성능이 좋다고 평가된 YOLOv5x 모델에 넣어 정확도를 평가
-**YOLOv5 프레임워크:**
+**YOLOv5 프레임워크:**<br>
 <img src="https://user-images.githubusercontent.com/94797349/205436140-42c89d27-ae63-4b63-91ae-cbc71b1c273d.png" width="600" height="300"/>
 <br>
 |<img src = "https://user-images.githubusercontent.com/94797349/203380581-4a9f2a73-c6fb-4612-a84b-386517da3181.png" width="250" height="250"/>|<img src = "https://user-images.githubusercontent.com/94797349/203380664-2dc2a0cc-1b14-4ad5-872e-cdc10a8c3268.jpg" width="250" height="250"/>|
@@ -68,7 +68,7 @@ DALL-E-2에서 생성한 이미지를 YOLOv5의 pretrained 모델 중 가장 성
 > <br>: [NAFNET](https://github.com/megvii-research/NAFNet)
 
 디노이징 툴인 NAFNET으로 데이터 이미지셋을 디노이징한 후, YOLOv5x로 다시 객체 인식해서 정확도 검사
-**NAFNET 프레임워크:**
+**NAFNET 프레임워크:**<br>
 <img src="https://user-images.githubusercontent.com/94797349/205436140-42c89d27-ae63-4b63-91ae-cbc71b1c273d.png" width="600" height="300"/>
 <br>
 <img src="https://user-images.githubusercontent.com/94797349/205434782-6882510c-d995-4f4f-95a0-35bfad822156.png" width="600" height="300"/>
