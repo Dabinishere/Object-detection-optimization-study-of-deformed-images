@@ -55,7 +55,9 @@ COCO val 2017의 동물 객체 중 8가지를 카테고리를 주요 객체로 �
 > <br>: [YOLOv5](https://github.com/ultralytics/yolov5)
 
 DALL-E-2에서 생성한 이미지를 YOLOv5의 pretrained 모델 중 가장 성능이 좋다고 평가된 YOLOv5x 모델에 넣어 정확도를 평가
-
+**YOLOv5 프레임워크:**
+<img src="https://user-images.githubusercontent.com/94797349/205436140-42c89d27-ae63-4b63-91ae-cbc71b1c273d.pn" width="600" height="300"/>
+<br>
 |<img src = "https://user-images.githubusercontent.com/94797349/203380581-4a9f2a73-c6fb-4612-a84b-386517da3181.png" width="250" height="250"/>|<img src = "https://user-images.githubusercontent.com/94797349/203380664-2dc2a0cc-1b14-4ad5-872e-cdc10a8c3268.jpg" width="250" height="250"/>|
 |--|--|
 |데이터 이미지|YOLOv5x로 돌린 후(바운딩 박스 생성)|
@@ -66,20 +68,25 @@ DALL-E-2에서 생성한 이미지를 YOLOv5의 pretrained 모델 중 가장 성
 > <br>: [NAFNET](https://github.com/megvii-research/NAFNet)
 
 디노이징 툴인 NAFNET으로 데이터 이미지셋을 디노이징한 후, YOLOv5x로 다시 객체 인식해서 정확도 검사
-
+**NAFNET 프레임워크:**
+<img src="https://user-images.githubusercontent.com/94797349/205436140-42c89d27-ae63-4b63-91ae-cbc71b1c273d.pn" width="600" height="300"/>
+<br>
+<img src="https://user-images.githubusercontent.com/94797349/205434782-6882510c-d995-4f4f-95a0-35bfad822156.png" width="600" height="300"/>
 |<img src = "https://user-images.githubusercontent.com/94797349/204239262-ed8409ac-fedf-4013-83d6-6648e7e88de3.png" width="250" height="250"/>|<img src = "https://user-images.githubusercontent.com/94797349/204239543-f334ae9f-35bf-4794-ac94-8593c78e6163.png" width="250" height="250"/>|
 |--|--|
 |데이터 이미지(Before denoising)|데이터 이미지(After denoising)|
 
 DALL-E-2로 생성한 이미지는 기존에 노이즈가 크지 않아, 디노이징 후에도 객체 인식률 정확도에 큰 변화 없었음
-    
+
 <br>
 
 > **SR**
-> <br>: [CAR](https://github.com/sunwj/CAR)
+> <br>: [HAT](https://github.com/XPixelGroup/HAT)
 
-데이터 이미지의 최적화를 이용해 최근 개발된 CAR-Pytorch 툴을 이용하여 화질 개선 및 최적화
-
+데이터 이미지의 최적화를 이용해 최근 개발된 HAT 기술을 이용하여 화질 개선 및 최적화
+**SR 프레임워크:**
+<img src="https://user-images.githubusercontent.com/94797349/205434782-6882510c-d995-4f4f-95a0-35bfad822156.png" width="600" height="300"/>
+<br>
 |<img src = "https://user-images.githubusercontent.com/94797349/204240451-e5e9578a-ae71-4d11-b520-277ffda8bba0.png" width="250" height="250"/>|<img src = "https://user-images.githubusercontent.com/94797349/204240451-e5e9578a-ae71-4d11-b520-277ffda8bba0.png" width="250" height="250"/>|
 |--|--|
 |데이터 이미지(Before SR)|데이터 이미지(After SR)|
@@ -106,13 +113,13 @@ DALL-E-2로 생성한 이미지는 기존에 노이즈가 크지 않아, 디노�
 <br><br><br>
 
 ## FrontEnd
-      [<img src="https://user-images.githubusercontent.com/94797349/203263241-95cb7160-0a81-4bc7-ae12-0ad275a40b60.png" width="100" height="150"/>](https://www.figma.com/files/recent?fuid=1158726737653483793)              [<img src="https://user-images.githubusercontent.com/94797349/203263379-dab35c9f-8284-44dc-9a2f-e18d51c38a7d.png" width="120" height="150"/>](https://developer.mozilla.org/ko/docs/Web/CSS)              [<img src="https://user-images.githubusercontent.com/94797349/203263442-e8c75941-9733-4723-988d-fa0c116fa5c4.png" width="140" height="150"/>](https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
+      [<img src="https://user-images.githubusercontent.com/94797349/203263241-95cb7160-0a81-4bc7-ae12-0ad275a40b60.png" width="100" height="150"/>](https://www.figma.com/files/recent?fuid=1158726737653483793)              [<img src="https://user-images.githubusercontent.com/94797349/203263379-dab35c9f-8284-44dc-9a2f-e18d51c38a7d.png" width="120" height="150"/>](https://developer.mozilla.org/ko/docs/Web/CSS)              [<img src="https://user-images.githubusercontent.com/94797349/203263442-e8c75941-9733-4723-988d-fa0c116fa5c4.png" width="140" height="150"/>](https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 
 <br><br><br>
 
 ## BackEnd
                                                             
-                                                            [<img src="https://user-images.githubusercontent.com/94797349/203263564-9b1e63ae-d850-4937-b5af-be9811c3a7a3.png" width="120" height="150"/>](https://developer.mozilla.org/ko/docs/Web/JavaScript)
+               [<img src="https://user-images.githubusercontent.com/94797349/205436530-72d1b647-6d97-4498-9af2-cba5e446e58f.png" width="150" height="150"/>](https://www.djangoproject.com/)              [<img src="https://user-images.githubusercontent.com/94797349/205434462-0fdbbe9e-b77f-48ee-b835-da8f31b57200.png" width="200" height="100"/>](https://opentutorials.org/course/4904)
   
   
 
