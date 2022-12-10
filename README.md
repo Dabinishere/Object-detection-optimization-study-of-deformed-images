@@ -111,7 +111,7 @@ DALL-E-2로 생성한 이미지는 기존에 노이즈가 크지 않아, 디노�
 <br> 2. 일반 사용자: SNS 업로드, 리뷰 작성 등 고화질의 이미지를 필요로 하는 업무에 이용
 <br> 3. 데이터셋 구축: 데이터로 사용할 이미지 파일 화질 개선<br>
 
-🌟**재홍 WebSite 링크**
+
 <br><br><br>
 <a href="https://drive.google.com/file/d/1CtBl-WSTkDsyFcMMNTLSv65IHZAVuDa0/view?usp=share_link">시연영상</a>
 ## FrontEnd
