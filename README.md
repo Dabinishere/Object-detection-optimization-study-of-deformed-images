@@ -76,7 +76,7 @@ DALL-E-2에서 생성한 이미지를 YOLOv5의 pretrained 모델 중 가장 성
 |--|--|
 |데이터 이미지(Before denoising)|데이터 이미지(After denoising)|
 
-DALL-E-2로 생성한 이미지는 기존에 노이즈가 크지 않아, 디노이징 후에도 객체 인식률 정확도에 큰 변화 없었음
+
 
 <br>
 
@@ -95,15 +95,28 @@ DALL-E-2로 생성한 이미지는 기존에 노이즈가 크지 않아, 디노�
 
 <br>
 
+<br>
+
+> **최적화 후 객체 인식**
+
+SR과 디노이징을 통한 최적화 후 객체 인식 테스트를 재진행한 결과, 아래의 표와 같이 화질 개선 이전에는 인식되지 않았던 객체가 최적화 후에는 인식되면서, 정확도가 높아짐을 확인할 수 있었음
+
+|<img src = "https://user-images.githubusercontent.com/94797349/206855795-7db610f1-503b-48b2-9f62-c44d3527c81e.png" width="250" height="150"/>|<img src = "https://user-images.githubusercontent.com/94797349/206855813-9461f66a-90c2-4563-80bf-baaed89795dd.png" width="250" height="150"/>|
+|--|--|
+|데이터 이미지(Before SR)|데이터 이미지(After SR)|
+
+<br>
+
 # WebSite HI:M  
 🌟**HI:M**
 <br>High quality:IMage<br>
 
 > 연구 과정에서 사용한 디노이징과 SR을 활용한 화질개선 웹사이트
-<div align="center">
-   
-  ![him](https://user-images.githubusercontent.com/94797349/206855522-655a2acb-7664-485d-a4c0-5e75970a0f31.png)
 
+
+<div align="center">
+    
+<img src = "https://user-images.githubusercontent.com/94797349/206855522-655a2acb-7664-485d-a4c0-5e75970a0f31.png" width="500" height="300"/>
 
 </div>
 
